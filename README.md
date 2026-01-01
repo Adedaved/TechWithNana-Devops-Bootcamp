@@ -27,7 +27,14 @@ Each module will have its own repository with hands-on labs, notes, and improvem
 - 15 Configuration Management with Ansible — [ansible](https://github.com/Adedaved/15-ansible) _(coming soon)_
 - 16 Monitoring with Prometheus — [prometheus](https://github.com/Adedaved/16-prometheus) _(coming soon)_
 
-
+##
+- 01 Notes= Development + Operations. Culture-> a way to work and communicate between dev and operations
+	    Create	  Run Production
+	    Build	   Linux, CLI
+	Test frameworks	  Scripting, Config
+	Version Control   Monitoring,Handle traffic
+ Agile framework -> CI/CD
+	
 
 ## 📌 Credits
 Learning path based on TechWorld with Nana DevOps Bootcamp materials hosted on GitLab.
