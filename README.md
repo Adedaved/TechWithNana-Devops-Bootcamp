@@ -11,12 +11,12 @@ This repository is a **hub** for my DevOps learning adventure based on the
 Each module will have its own repository with hands-on labs, notes, and improvements.
 
 - 01 Learning Intro to DevOps Notes
-- 02 Linux Fundamentals — [linux](https://github.com/Adedaved/02-linux) _(coming soon)_
-- 03 Git & Version Control — [git](https://github.com/Adedaved/03-git) _(coming soon)_
+- 02 Linux Fundamentals — [linux & commands](https://github.com/Adedaved/02-linux) _(coming soon)_
+- 03 Git & Version Control — [git and source control](https://github.com/Adedaved/03-git) _(coming soon)_
 - 04 Build Tools — [build-tools](https://github.com/Adedaved/04-build-tools) _(coming soon)_
-- 05 Cloud Basics — [cloud](https://github.com/Adedaved/05-cloud) _(coming soon)_
+- 05 Cloud Basics — [cloud & iaas](https://github.com/Adedaved/05-cloud) _(coming soon)_
 - 06 Artifact Repository / Nexus — [nexus](https://github.com/Adedaved/06-nexus) _(coming soon)_
-- 07 Docker — [docker](https://github.com/Adedaved/07-docker) _(coming soon)_
+- 07 Docker — [docker & containerization](https://github.com/Adedaved/07-docker) _(coming soon)_
 - 08 CI/CD with Jenkins — [jenkins](https://github.com/Adedaved/08-jenkins) _(coming soon)_
 - 09 AWS Services — [aws](https://github.com/Adedaved/09-aws) _(coming soon)_
 - 10 Kubernetes — [kubernetes](https://github.com/Adedaved/10-kubernetes) _(coming soon)_
