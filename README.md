@@ -1,4 +1,4 @@
-# TechWithNana DevOps Bootcamp – Learning Journey (The Journey of the 4C's)
+# TechWithNana DevOps Bootcamp – Learning Journey
 
 This repository is a **hub** for my DevOps learning adventure based on the
 **TechWorld with Nana DevOps Bootcamp**.
