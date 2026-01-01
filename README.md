@@ -10,20 +10,24 @@ This repository is a **hub** for my DevOps learning adventure based on the
 ## 🧱 Modules
 Each module will have its own repository with hands-on labs, notes, and improvements.
 
-- 01 Introdution
-- 02 Linux Fundamentals
-- 03 Git & Version Control
-- 04 Build Tools
-- 05 Cloud Basics
-- 06 Artifact Repository
-- 07 CI/CD with Jenkins
-- 08 Docker
-- 09 Kubernetes
-- 10 Terraform
-- 11 Ansible
-- 12 Monitoring (Prometheus & Grafana)
+- 01 Learning Intro to DevOps Notes
+- 02 Linux Fundamentals — [linux](https://github.com/Adedaved/02-linux) _(coming soon)_
+- 03 Git & Version Control — [git](https://github.com/Adedaved/03-git) _(coming soon)_
+- 04 Build Tools — [build-tools](https://github.com/Adedaved/04-build-tools) _(coming soon)_
+- 05 Cloud Basics — [cloud](https://github.com/Adedaved/05-cloud) _(coming soon)_
+- 06 Artifact Repository / Nexus — [nexus](https://github.com/Adedaved/06-nexus) _(coming soon)_
+- 07 Docker — [docker](https://github.com/Adedaved/07-docker) _(coming soon)_
+- 08 CI/CD with Jenkins — [jenkins](https://github.com/Adedaved/08-jenkins) _(coming soon)_
+- 09 AWS Services — [aws](https://github.com/Adedaved/09-aws) _(coming soon)_
+- 10 Kubernetes — [kubernetes](https://github.com/Adedaved/10-kubernetes) _(coming soon)_
+- 11 Kubernetes on AWS / EKS — [eks](https://github.com/Adedaved/11-eks) _(coming soon)_
+- 12 Terraform — [terraform](https://github.com/Adedaved/12-terraform) _(coming soon)_
+- 13 Programming with Python — [programming-with-python](https://github.com/Adedaved/13-programming-with-python) _(coming soon)_
+- 14 Automation with Python — [automation-with-python](https://github.com/Adedaved/14-automation-with-python) _(coming soon)_
+- 15 Configuration Management with Ansible — [ansible](https://github.com/Adedaved/15-ansible) _(coming soon)_
+- 16 Monitoring with Prometheus — [prometheus](https://github.com/Adedaved/16-prometheus) _(coming soon)_
+
 
 
 ## 📌 Credits
 Learning path based on TechWorld with Nana DevOps Bootcamp materials hosted on GitLab.
-
