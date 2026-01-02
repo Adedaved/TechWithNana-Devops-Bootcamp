@@ -28,19 +28,15 @@ Each module will have its own repository with hands-on labs, notes, and improvem
 - 16 Monitoring with Prometheus — [prometheus](https://github.com/Adedaved/16-prometheus) _(coming soon)_
 
 ##
-- 01 Notes= Development + Operations. 
-##
-- Culture-> a way to work and communicate between dev and operations
-##
-- 	    Create	 -> Run Production
-##
--		Build	 ->  Linux, CLI
-##
--	Test frameworks	 ->  Scripting, Config
-##
--	Version Control  ->  Monitoring,Handle traffic
-##
--	 Agile framework -> CI/CD
+- 01 Notes= 
+🧱 
+       Development + Operations. 
+  Culture-> a way to work and communicate between dev and operations
+          Create   <->  Run Production
+           Build   <->  Linux, CLI
+  Test frameworks  <->  Scripting, Config
+  Version Control  <->  Monitoring,Handle traffic
+  Agile framework  <->  CI/CD
 	
 
 ## 📌 Credits
