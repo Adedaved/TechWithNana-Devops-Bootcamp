@@ -11,7 +11,7 @@ This repository is a **hub** for my DevOps learning adventure based on the
 Each module will have its own repository with hands-on labs, notes, and improvements.
 
 - 01 Learning Intro to DevOps Notes
-- 02 [linux Fundamentals (OS & Linux Basics commands](https://github.com/Adedaved/02-linux)
+- 02 [linux Fundamentals (OS & Queries](https://github.com/Adedaved/02-linux)
 - 03 Git & Version Control — [git and source control](https://github.com/Adedaved/03-git) _(coming soon)_
 - 04 Build Tools — [build-tools](https://github.com/Adedaved/04-build-tools) _(coming soon)_
 - 05 Cloud Basics — [cloud & iaas](https://github.com/Adedaved/05-cloud) _(coming soon)_
