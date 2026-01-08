@@ -13,7 +13,7 @@ Each module will have its own repository with hands-on labs, notes, and improvem
 - 01 Learning Intro to DevOps Notes
 - 02 [Linux Fundamentals (OS & Queries)](https://github.com/Adedaved/02-linux)
 - 03 [Git and Version (source) control](https://github.com/Adedaved/03-Git-and-version-control.git)
-- 04 Build Tools — [build-tools](https://github.com/Adedaved/04-build-tools) _(coming soon)_
+- 04 [Build-tools](https://github.com/Adedaved/04-build-tools)
 - 05 Cloud Basics — [cloud & iaas](https://github.com/Adedaved/05-cloud) _(coming soon)_
 - 06 Artifact Repository / Nexus — [nexus](https://github.com/Adedaved/06-nexus) _(coming soon)_
 - 07 Docker — [docker & containerization](https://github.com/Adedaved/07-docker) _(coming soon)_
